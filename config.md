@@ -1,2 +1,2 @@
-db: payments_v2
+db: payments_v1
 max_connections: 100
